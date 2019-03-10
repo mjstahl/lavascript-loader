@@ -1,0 +1,29 @@
+{
+  "name": "lavascript-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader for Literate JavaScript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjstahl/lavascript-loader.git"
+  },
+  "keywords": [
+    "literate programming",
+    "literate",
+    "javascript",
+    "markdown",
+    "md",
+    "webpackage",
+    "webpack-loader"
+  ],
+  "author": "Mark Stahl <mjstahl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjstahl/lavascript-loader/issues"
+  },
+  "homepage": "https://github.com/mjstahl/lavascript-loader#readme",
+  "dependencies": {
+    "lavascript": "^0.5.6"
+  }
+}
