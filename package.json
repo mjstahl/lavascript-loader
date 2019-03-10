@@ -2,8 +2,10 @@
   "name": "lavascript-loader",
   "version": "0.1.0",
   "description": "Webpack loader for Literate JavaScript",
-  "main": "index.js",
-  "scripts": {},
+  "main": "dist/loader.js",
+  "scripts": {
+    "lint": "standard --fix"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mjstahl/lavascript-loader.git"
@@ -25,5 +27,11 @@
   "homepage": "https://github.com/mjstahl/lavascript-loader#readme",
   "dependencies": {
     "lavascript": "^0.5.6"
+  },
+  "peerDependencies": {
+    "lavascript": "^0.5.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
   }
 }
