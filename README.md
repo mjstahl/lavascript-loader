@@ -1,2 +1,1 @@
-# lavascript-loader
-Webpack loader for Literate JavaScript
+# Webpack loader for Literate JavaScript
