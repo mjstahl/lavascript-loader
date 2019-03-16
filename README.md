@@ -6,6 +6,12 @@
 $ npm install --save-dev lavascript-loader
 ```
 
+[LavaScript](https://github.com/mjstahl/lavascript) is peer dependency and must be installed seperately.
+
+```console
+$ npm install --save-dev lavascript
+```
+
 ## Usage
 
 ### Configuration (recommended)

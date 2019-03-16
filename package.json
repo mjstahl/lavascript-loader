@@ -4,6 +4,7 @@
   "description": "Webpack loader for Literate JavaScript",
   "main": "dist/loader.js",
   "scripts": {
+    "generate": "lavascript ./ dist",
     "lint": "standard --fix"
   },
   "repository": {
@@ -16,7 +17,6 @@
     "javascript",
     "markdown",
     "md",
-    "webpackage",
     "webpack-loader"
   ],
   "author": "Mark Stahl <mjstahl@gmail.com>",
@@ -25,13 +25,11 @@
     "url": "https://github.com/mjstahl/lavascript-loader/issues"
   },
   "homepage": "https://github.com/mjstahl/lavascript-loader#readme",
-  "dependencies": {
-    "lavascript": "^0.6.0"
-  },
   "peerDependencies": {
     "lavascript": "^0.6.0"
   },
   "devDependencies": {
+    "lavascript": "^0.6.0",
     "standard": "^12.0.1"
   }
 }
