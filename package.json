@@ -1,6 +1,6 @@
 {
   "name": "lavascript-loader",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Webpack loader for Literate JavaScript",
   "main": "dist/loader.js",
   "scripts": {
