@@ -39,3 +39,6 @@ import someModule from lavascript-loader!./some-module.js.md
 $ webpack --module 'js.md=lavascript-loader'
 ```
 
+## Related
+
+[LavaScript](https://npm.im/lavascript) - Literate Programming for JavaScript
