@@ -29,7 +29,7 @@
     "lavascript": "^0.6.0"
   },
   "devDependencies": {
-    "lavascript": "^0.6.0",
+    "lavascript": "^0.6.5",
     "standard": "^12.0.1"
   }
 }
